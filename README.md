@@ -1,19 +1,19 @@
-# BDDA_Top-Down-Approach
-Railway System Database
+
+# Railway System Database_Top Down Approach
 
 This repository contains the entity-relationship diagram (ERD) and schema structure for a Railway System database. The system manages passenger bookings, train details, routes, and payment information.
 
-Features
+# Features
 
 Journey Management: Tracks journey details, including booking, seat allocation, meal booking, and payment status. Passenger Information: Manages passenger details, including sign-up information and contact details. Station Management: Maintains a list of railway stations with associated city and state information. Train Information: Stores train details such as type, availability, source, destination, and passenger capacity. Train Routes: Organizes train routes, including estimated arrival and departure times, and station halts. Payment Processing: Tracks payment status and related booking information.
 
-Entity Relationship Diagram (ERD)
+# Entity Relationship Diagram (ERD)
 
 The ERD outlines the structure and relationships between key tables in the database:
 
 Journey - Tracks booking, payment, and journey details. Passenger - Holds passenger data including personal and contact information. Station - Information on railway stations. Train Details - Stores information about individual trains. Train Routes - Defines routes and stations for each train. Train Type - Holds train types and coach information. User Login - Manages user login credentials and sign-up details.
 
-Database Schema
+# Database Schema
 
 The following tables are used in the database:
 
